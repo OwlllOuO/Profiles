@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
+
+# >> Teamviewer
+DOMAIN-SUFFIX,teamviewer.com

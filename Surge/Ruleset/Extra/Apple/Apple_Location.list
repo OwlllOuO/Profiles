@@ -1,0 +1,17 @@
+# http://www.jjinc.com.au/announcements/apple170008services
+# https://gist.github.com/joseconstela/a6e06ef9737e097eddcaf940ea313e38
+# Maps
+USER-AGENT,%E5%9C%B0%E5%9B%BE*,Location
+# Settings
+USER-AGENT,com.apple.geod*,Location
+USER-AGENT,com.apple.Maps,Location
+USER-AGENT,geod*,Location
+USER-AGENT,locationd*,Location
+USER-AGENT,Maps*,Location
+
+# locationd
+DOMAIN,gs-loc.apple.com,Location
+DOMAIN-SUFFIX,ls.apple.com.akadns.net,Location
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,Location
+# GeoServices.framework
+DOMAIN-SUFFIX,ls.apple.com,Location

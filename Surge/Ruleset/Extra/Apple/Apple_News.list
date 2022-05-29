@@ -1,0 +1,10 @@
+# http://www.jjinc.com.au/announcements/apple170008services
+# https://gist.github.com/joseconstela/a6e06ef9737e097eddcaf940ea313e38
+#
+# Apple News
+#
+USER-AGENT,AppleNews*,News
+DOMAIN-SUFFIX,apple.news,News
+DOMAIN,news-events.apple.com,News
+DOMAIN,news-edge.apple.com,News
+DOMAIN,apple.comscoreresearch.com,News

@@ -1,0 +1,23 @@
+# http://www.jjinc.com.au/announcements/apple170008services
+# https://gist.github.com/joseconstela/a6e06ef9737e097eddcaf940ea313e38
+#
+# Apple Non-China CDN
+#
+# Trailer
+DOMAIN-SUFFIX,hls.itunes.apple.com,CDN
+# Movie Stream
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com,CDN
+# iTunes Music Stream
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,CDN
+DOMAIN-SUFFIX,cdn-apple.com,CDN
+DOMAIN,cdn.apple-cloudkit.com,CDN
+# Developer
+DOMAIN,devimages-cdn.apple.com,CDN
+DOMAIN,devstreaming-cdn.apple.com,CDN
+DOMAIN,js-cdn.music.apple.com,CDN
+DOMAIN,docs-assets.developer.apple.com,CDN
+# Other
+DOMAIN-SUFFIX,apple-dns.net,CDN
+# OCSP
+DOMAIN-SUFFIX,ocsp.apple.com,CDN
+USER-AGENT,com.apple.trustd*,CDN

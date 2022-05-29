@@ -7,104 +7,13 @@ USER-AGENT,*com.apple.mobileme.fmip1,DIRECT
 # Weather
 USER-AGENT,*WeatherFoundation*,DIRECT
 DOMAIN,weather-data.apple.com,DIRECT
-# Maps
-USER-AGENT,%E5%9C%B0%E5%9B%BE*,Location
 # Settings
 USER-AGENT,%E8%AE%BE%E7%BD%AE*,DIRECT
-USER-AGENT,com.apple.geod*,Location
-USER-AGENT,com.apple.Maps,Location
 USER-AGENT,FindMyFriends*,DIRECT
 USER-AGENT,FindMyiPhone*,DIRECT
 USER-AGENT,FMDClient*,DIRECT
 USER-AGENT,FMFD*,DIRECT
 USER-AGENT,fmflocatord*,DIRECT
-USER-AGENT,geod*,Location
-USER-AGENT,locationd*,Location
-USER-AGENT,Maps*,Location
-
-#
-# 一些 com.apple.appstored* 会连接的 API（优先级高）
-#
-DOMAIN,guzzoni.apple.com,API
-DOMAIN,apps.apple.com,API
-DOMAIN,xp.apple.com,API
-DOMAIN,bag.itunes.apple.com,API
-DOMAIN,api-edge.apps.apple.com,API
-DOMAIN,api.apps.apple.com,API
-DOMAIN,play.itunes.apple.com,API
-DOMAIN,se.itunes.apple.com,API
-DOMAIN,se-edge.itunes.apple.com,API
-DOMAIN,su.itunes.apple.com,API
-DOMAIN,upp.itunes.apple.com,API
-DOMAIN,beta.music.apple.com,API
-DOMAIN-KEYWORD,buy.itunes.apple.com,API
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net,API
-DOMAIN,testflight.apple.com,API
-DOMAIN-SUFFIX,appstore.com,API
-
-#
-# Apple Global CDN
-#
-# iOS App Store
-DOMAIN,iosapps.itunes.apple.com,CDN_CN
-# Mac App Store
-DOMAIN,osxapps.itunes.apple.com,CDN_CN
-DOMAIN,oscdn.apple.com,CDN_CN
-# Update
-DOMAIN,supportdownload.apple.com,CDN_CN
-# Update
-DOMAIN,appldnld.apple.com,CDN_CN
-# Update
-DOMAIN,swcdn.apple.com,CDN_CN
-DOMAIN,apptrailers.itunes.apple.com,CDN_CN
-DOMAIN,updates-http.cdn-apple.com,CDN_CN
-DOMAIN,updates.cdn-apple.com,CDN_CN
-# App Store & iTunes Images
-DOMAIN-SUFFIX,mzstatic.com,CDN_CN
-# Mac App Store
-PROCESS-NAME,storedownloadd,CDN_CN
-# iOS App Store
-USER-AGENT,com.apple.appstored*,CDN_CN
-# Apple Music Streaming
-DOMAIN,aod.itunes.apple.com,CDN_CN
-DOMAIN,mvod.itunes.apple.com,CDN_CN
-DOMAIN,streamingaudio.itunes.apple.com,CDN_CN
-# Other
-DOMAIN,download.developer.apple.com,CDN_CN
-DOMAIN,downloaddispatch.itunes.apple.com,CDN_CN
-DOMAIN,app-site-association.cdn-apple.com,CDN_CN
-
-#
-# Apple Non-China CDN
-#
-# Trailer
-DOMAIN-SUFFIX,hls.itunes.apple.com,CDN
-# Movie Stream
-DOMAIN-SUFFIX,hls-amt.itunes.apple.com,CDN
-# iTunes Music Stream
-DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,CDN
-DOMAIN-SUFFIX,cdn-apple.com,CDN
-DOMAIN,cdn.apple-cloudkit.com,CDN
-# Developer
-DOMAIN,devimages-cdn.apple.com,CDN
-DOMAIN,devstreaming-cdn.apple.com,CDN
-DOMAIN,js-cdn.music.apple.com,CDN
-DOMAIN,docs-assets.developer.apple.com,CDN
-# Other
-DOMAIN-SUFFIX,apple-dns.net,CDN
-# OCSP
-DOMAIN-SUFFIX,ocsp.apple.com,CDN
-USER-AGENT,com.apple.trustd*,CDN
-
-#
-# Apple News
-#
-USER-AGENT,AppleNews*,News
-DOMAIN-SUFFIX,apple.news,News
-DOMAIN,news-events.apple.com,News
-DOMAIN,news-edge.apple.com,News
-DOMAIN,apple.comscoreresearch.com,News
-
 #
 # Apple 其他直连
 #
@@ -118,44 +27,13 @@ DOMAIN,smp-device-content.apple.com,DIRECT
 DOMAIN-KEYWORD,smp-device,DIRECT
 USER-AGENT,passd*,DIRECT
 USER-AGENT,Wallet*,DIRECT
-# locationd
-DOMAIN,gs-loc.apple.com,Location
-DOMAIN-SUFFIX,ls.apple.com.akadns.net,Location
-DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,Location
 # Reserve
 DOMAIN,reserve-prime.apple.com,DIRECT
 # Push
 DOMAIN-KEYWORD,push-apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,push.apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,push.apple.com,DIRECT
-# GeoServices.framework
-DOMAIN-SUFFIX,ls.apple.com,Location
 # Asset Cache Locator Service
 DOMAIN-SUFFIX,lcdn-locator.apple.com,DIRECT
 # Caching Server Registration
 DOMAIN-SUFFIX,lcdn-registration.apple.com,DIRECT
-
-#
-# Apple 其他自选
-#
-# iMessage
-DOMAIN-SUFFIX,ess.apple.com,API
-# Apple Music
-DOMAIN-SUFFIX,music.apple.com,API
-DOMAIN-SUFFIX,sonos-music.apple.com,API
-DOMAIN,tv.applemusic.com,API
-# Configuration
-DOMAIN,configuration.apple.com,API
-# Others
-DOMAIN-SUFFIX,aaplimg.com,API
-DOMAIN-SUFFIX,apple.co,API
-DOMAIN-SUFFIX,itunes.com,API
-DOMAIN-SUFFIX,itunes.apple.com,API
-DOMAIN-SUFFIX,apple,API
-DOMAIN,weather-analytics-events.apple.com,API
-# iCloud 上传和下载
-DOMAIN-SUFFIX,icloud-content.com,API
-DOMAIN-SUFFIX,me.com,API
-DOMAIN-SUFFIX,apple.com,API
-DOMAIN-SUFFIX,icloud.com,API
-DOMAIN-SUFFIX,apple-cloudkit.com,API

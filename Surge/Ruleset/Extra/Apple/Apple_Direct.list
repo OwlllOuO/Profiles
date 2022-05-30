@@ -3,6 +3,7 @@
 #
 # Apple 直连
 #
+DOMAIN-SUFFIX,apple.com.cn
 USER-AGENT,*com.apple.mobileme.fmip1
 # Weather
 USER-AGENT,*WeatherFoundation*

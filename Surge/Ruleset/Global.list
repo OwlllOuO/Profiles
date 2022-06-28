@@ -137,6 +137,16 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
+
+# > Zoho Mail
+DOMAIN-SUFFIX,zoho.com
+DOMAIN-SUFFIX,zohocdn.com
+DOMAIN-SUFFIX,zohostatic.com
+DOMAIN-SUFFIX,zohopublic.com
+DOMAIN-SUFFIX,zoho.co
+DOMAIN-SUFFIX,zoho.com
+
+
 # > Others
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com

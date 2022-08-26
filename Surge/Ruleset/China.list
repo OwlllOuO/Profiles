@@ -32,8 +32,7 @@ DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 # > Battle
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,blizzard.com
+
 # > bilibili
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,biliapi.com
@@ -118,9 +117,7 @@ DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 # > Steam
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
+
 # > Tencent
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*

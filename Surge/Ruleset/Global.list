@@ -8,6 +8,13 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
+# > Battle
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
 # > Crypto
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
@@ -119,8 +126,8 @@ DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
+# > Steam
 # > Telegram
-
 # > Twitter
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv

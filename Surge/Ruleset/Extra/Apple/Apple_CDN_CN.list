@@ -31,3 +31,7 @@ DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN,download.developer.apple.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,app-site-association.cdn-apple.com
+
+# My
+DOMAIN-SUFFIX,qtlcdn.com
+DOMAIN-SUFFIX,ksyuncdn.com

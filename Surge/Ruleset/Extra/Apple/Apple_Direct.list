@@ -35,6 +35,6 @@ DOMAIN-KEYWORD,push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
 # Asset Cache Locator Service
-# DOMAIN-SUFFIX,lcdn-locator.apple.com
+# 2022.10.25 测试：系统更新 CDN 为国内域名 DOMAIN-SUFFIX,lcdn-locator.apple.com
 # Caching Server Registration
 DOMAIN-SUFFIX,lcdn-registration.apple.com

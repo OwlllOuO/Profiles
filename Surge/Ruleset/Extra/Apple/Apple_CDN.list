@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,ocsp.apple.com
 USER-AGENT,com.apple.trustd*
 
 # My
-DOMAIN-SUFFIX,akadns.net
+DOMAIN,is-ssl.mzstatic.com.itunes-apple.com.akadns.net

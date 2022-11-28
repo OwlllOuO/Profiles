@@ -44,14 +44,14 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple-cloudkit.com
-
+ 
 # My
-# akadns.net
 DOMAIN-KEYWORD,idms-apple.com
 DOMAIN-KEYWORD,ess-apple.com
 DOMAIN-KEYWORD,edge-itunes-apple.com
 DOMAIN-KEYWORD,configuration.apple.com
-
-
+DOMAIN,configuration.ls.apple.com
 DOMAIN,gateway.fe.apple-dns.net
+DOMAIN,applecsb.crm.189.cn
+DOMAIN,push.apple.com
 DOMAIN,applecsb.crm.189.cn

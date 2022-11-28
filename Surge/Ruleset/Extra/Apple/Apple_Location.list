@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,ls.apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 # GeoServices.framework
 DOMAIN-SUFFIX,ls.apple.com
+
+# My
+DOMAIN,gs-loc-cn.apple.com

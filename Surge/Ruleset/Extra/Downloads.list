@@ -1,9 +1,12 @@
-# Ubuntu Download
-DOMAIN,ports.ubuntu.com
-
 # Eclipse Download
 DOMAIN,eclipse.mirror.rafal.ca
 
 # Microsoft Download
-# Edge Browser
-DOMAIN,msedge.sf.dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,download.windowsupdate.com
+
+# Python Download
+DOMAIN,files.pythonhosted.org
+
+# Ubuntu Download
+DOMAIN,ports.ubuntu.com

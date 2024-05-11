@@ -4,9 +4,26 @@ DOMAIN,eclipse.mirror.rafal.ca
 # Microsoft Download
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,blob.core.windows.net
 
 # Python Download
 DOMAIN,files.pythonhosted.org
+DOMAIN-SUFFIX,download.pytorch.org
 
 # Ubuntu Download
 DOMAIN,ports.ubuntu.com
+
+# Cloudflare
+DOMAIN-SUFFIX,cloudflarestorage.com
+
+# VMware
+DOMAIN,download3.vmware.com
+
+# GitHub
+DOMAIN-SUFFIX,githubusercontent.com
+
+# HuggingFace
+DOMAIN-SUFFIX,huggingface.co
+
+# General Downloads
+DOMAIN-SUFFIX,static.libnnc.org

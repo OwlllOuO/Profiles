@@ -27,3 +27,6 @@ DOMAIN-SUFFIX,huggingface.co
 
 # General Downloads
 DOMAIN-SUFFIX,static.libnnc.org
+
+# JetBrains
+DOMAIN,download-cdn.jetbrains.com

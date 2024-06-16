@@ -33,3 +33,6 @@ DOMAIN,download-cdn.jetbrains.com
 
 # Postman
 DOMAIN,dl.pstmn.io
+
+# Wireshark
+DOMAIN-SUFFIX,dl.wireshark.org

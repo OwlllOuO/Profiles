@@ -1,23 +1,17 @@
-# Eclipse Download
-DOMAIN,eclipse.mirror.rafal.ca
-
-# Microsoft Download
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-DOMAIN-SUFFIX,download.windowsupdate.com
-DOMAIN-SUFFIX,blob.core.windows.net
-
-# Python Download
-DOMAIN,files.pythonhosted.org
-DOMAIN-SUFFIX,download.pytorch.org
-
-# Ubuntu Download
-DOMAIN,ports.ubuntu.com
-
 # Cloudflare
 DOMAIN-SUFFIX,cloudflarestorage.com
 
-# VMware
-DOMAIN,download3.vmware.com
+# Docker
+DOMAIN,desktop.docker.com
+
+# Eclipse Download
+DOMAIN,eclipse.mirror.rafal.ca
+
+# Electrum
+DOMAIN,download.electrum.org
+
+# General Downloads
+DOMAIN-SUFFIX,static.libnnc.org
 
 # GitHub
 DOMAIN-SUFFIX,githubusercontent.com
@@ -25,14 +19,44 @@ DOMAIN-SUFFIX,githubusercontent.com
 # HuggingFace
 DOMAIN-SUFFIX,huggingface.co
 
-# General Downloads
-DOMAIN-SUFFIX,static.libnnc.org
+# IINA
+DOMAIN,dl.iina.io
 
 # JetBrains
 DOMAIN,download-cdn.jetbrains.com
 
+# Microsoft Download
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,blob.core.windows.net
+
+# Monero
+DOMAIN,downloads.getmonero.org
+
+# Notion
+DOMAIN-SUFFIX,notion-static.com
+
+# OBS
+DOMAIN,cdn-fastly.obsproject.com
+
 # Postman
 DOMAIN,dl.pstmn.io
+
+# Python Download
+DOMAIN,files.pythonhosted.org
+DOMAIN-SUFFIX,download.pytorch.org
+
+# Rackspace CDN
+DOMAIN-SUFFIX,rackcdn.com
+
+# Sourceforge
+DOMAIN-SUFFIX,dl.sourceforge.net
+
+# Ubuntu Download
+DOMAIN,ports.ubuntu.com
+
+# VMware
+DOMAIN,download3.vmware.com
 
 # Wireshark
 DOMAIN-SUFFIX,dl.wireshark.org

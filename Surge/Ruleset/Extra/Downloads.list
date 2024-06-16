@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,static.libnnc.org
 
 # JetBrains
 DOMAIN,download-cdn.jetbrains.com
+
+# Downloads
+DOMAIN,dl.pstmn.io

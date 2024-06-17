@@ -1,6 +1,9 @@
 # Cloudflare
 DOMAIN-SUFFIX,cloudflarestorage.com
 
+# Discord
+DOMAIN,cdn.discordapp.com
+
 # Docker
 DOMAIN,desktop.docker.com
 
@@ -16,6 +19,9 @@ DOMAIN-SUFFIX,static.libnnc.org
 # GitHub
 DOMAIN-SUFFIX,githubusercontent.com
 
+# Google
+DOMAIN,dl.google.com
+
 # HuggingFace
 DOMAIN-SUFFIX,huggingface.co
 
@@ -25,6 +31,9 @@ DOMAIN,dl.iina.io
 # JetBrains
 DOMAIN,download-cdn.jetbrains.com
 
+# MAMP
+DOMAIN,downloads.mamp.info
+
 # Microsoft Download
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
@@ -32,6 +41,9 @@ DOMAIN-SUFFIX,blob.core.windows.net
 
 # Monero
 DOMAIN,downloads.getmonero.org
+
+# NLUGG
+DOMAIN,ftp.nluug.nl
 
 # Notion
 DOMAIN-SUFFIX,notion-static.com
@@ -54,6 +66,9 @@ DOMAIN-SUFFIX,dl.sourceforge.net
 
 # Ubuntu Download
 DOMAIN,ports.ubuntu.com
+
+# UMD Mirror
+DOMAIN,mirror.umd.edu
 
 # VMware
 DOMAIN,download3.vmware.com

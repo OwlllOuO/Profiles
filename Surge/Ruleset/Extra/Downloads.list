@@ -1,3 +1,6 @@
+# Arc
+DOMAIN,releases.arc.net
+
 # Cloudflare
 DOMAIN-SUFFIX,cloudflarestorage.com
 
@@ -42,6 +45,9 @@ DOMAIN-SUFFIX,blob.core.windows.net
 # Monero
 DOMAIN,downloads.getmonero.org
 
+# Mozilla
+DOMAIN,ftp.mozilla.org
+
 # NLUGG
 DOMAIN,ftp.nluug.nl
 
@@ -63,6 +69,16 @@ DOMAIN-SUFFIX,rackcdn.com
 
 # Sourceforge
 DOMAIN-SUFFIX,dl.sourceforge.net
+
+# TeamViewer
+DOMAIN,dl.teamviewer.com
+
+# Telegram
+DOMAIN,td.telegram.org
+DOMAIN,osx.telegram.org
+
+# Tor Project
+DOMAIN,dist.torproject.org
 
 # Ubuntu Download
 DOMAIN,ports.ubuntu.com

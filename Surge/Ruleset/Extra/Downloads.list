@@ -19,6 +19,9 @@ DOMAIN,eclipse.mirror.rafal.ca
 # Electrum
 DOMAIN,download.electrum.org
 
+# Homebrew
+DOMAIN,formulae.brew.sh
+
 # General Downloads
 DOMAIN-SUFFIX,static.libnnc.org
 

@@ -86,6 +86,9 @@ DOMAIN,osx.telegram.org
 # Tor Project
 DOMAIN,dist.torproject.org
 
+# Typora
+DOMAIN,download.typora.io
+
 # Ubuntu Download
 DOMAIN,ports.ubuntu.com
 

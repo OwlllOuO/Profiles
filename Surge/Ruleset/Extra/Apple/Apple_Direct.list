@@ -46,3 +46,4 @@ DOMAIN,cn-smp-paymentservices.apple.com
 # Maps
 DOMAIN-WILDCARD,gspe*-cn-ssl.ls.apple.com
 DOMAIN,gs-loc-cn.apple.com
+DOMAIN-SUFFIX,autonavi.com      # 高德

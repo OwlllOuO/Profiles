@@ -44,8 +44,5 @@ DOMAIN,cl4-cn.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
 
 # Maps
-DOMAIN,gspe12-cn-ssl.ls.apple.com       # Traffic CN
-DOMAIN,gspe11-2-cn-ssl.ls.apple.com     # Satellite View CN
-DOMAIN,gspe19-cn-ssl.ls.apple.com
-DOMAIN,gspe79-cn-ssl.ls.apple.com
+DOMAIN-WILDCARD,gspe*-cn-ssl.ls.apple.com
 DOMAIN,gs-loc-cn.apple.com

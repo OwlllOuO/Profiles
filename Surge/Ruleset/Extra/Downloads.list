@@ -76,6 +76,9 @@ DOMAIN-SUFFIX,rackcdn.com
 # Sourceforge
 DOMAIN-SUFFIX,dl.sourceforge.net
 
+# Steam
+DOMAIN-SUFFIX,steamcontent.com
+
 # TeamViewer
 DOMAIN,dl.teamviewer.com
 

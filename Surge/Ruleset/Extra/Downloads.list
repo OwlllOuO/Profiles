@@ -13,6 +13,9 @@ DOMAIN,cdn.discordapp.com
 # Docker
 DOMAIN,desktop.docker.com
 
+# Dropbox
+DOMAIN-SUFFIX,dl.dropboxusercontent.com
+
 # Eclipse Download
 DOMAIN,eclipse.mirror.rafal.ca
 

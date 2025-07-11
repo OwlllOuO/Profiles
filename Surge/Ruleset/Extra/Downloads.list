@@ -1,5 +1,6 @@
 # Amazon AWS
 DOMAIN-WILDCARD,*.s*.amazonaws.com
+
 # Anaconda
 DOMAIN,repo.anaconda.com
 
@@ -32,6 +33,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 
 # Google
 DOMAIN,dl.google.com
+DOMAIN,storage.googleapis.com
 
 # Homebrew
 DOMAIN,formulae.brew.sh

@@ -40,7 +40,6 @@ DOMAIN,formulae.brew.sh
 
 # HuggingFace
 DOMAIN-SUFFIX,huggingface.co
-DOMAIN-WILDCARD,cdn-lfs-*.hf.co
 
 # IINA
 DOMAIN,dl.iina.io

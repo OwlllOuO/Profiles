@@ -1,3 +1,6 @@
+# Amazon AWS
+DOMAIN-WILDCARD,*.s*.amazonaws.com
+
 # Anaconda
 DOMAIN,repo.anaconda.com
 
@@ -13,14 +16,14 @@ DOMAIN,cdn.discordapp.com
 # Docker
 DOMAIN,desktop.docker.com
 
+# Dropbox
+DOMAIN-SUFFIX,dl.dropboxusercontent.com
+
 # Eclipse Download
 DOMAIN,eclipse.mirror.rafal.ca
 
 # Electrum
 DOMAIN,download.electrum.org
-
-# Homebrew
-DOMAIN,formulae.brew.sh
 
 # General Downloads
 DOMAIN-SUFFIX,static.libnnc.org
@@ -30,6 +33,13 @@ DOMAIN-SUFFIX,githubusercontent.com
 
 # Google
 DOMAIN,dl.google.com
+DOMAIN,storage.googleapis.com
+
+# Homebrew
+DOMAIN,formulae.brew.sh
+
+# HuggingFace
+DOMAIN-WILDCARD,cdn-lfs-*.hf.co
 
 # IINA
 DOMAIN,dl.iina.io
@@ -100,3 +110,7 @@ DOMAIN,download3.vmware.com
 
 # Wireshark
 DOMAIN-SUFFIX,dl.wireshark.org
+
+# Others
+DOMAIN,public.boxcloud.com
+DOMAIN,api.gdc.cancer.gov
